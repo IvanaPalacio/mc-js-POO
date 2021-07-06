@@ -112,7 +112,7 @@ console.log(comic1.author);
 console.log(comic1.price);
 
 console.log(comic1.illustrators); //como no lo tenemos privado, simplemente podemos tener acceso sin necesidad de agregar getter y setter.
-//los 4 console.log de arriba el chico los borra.
+///los 4 console.log de arriba el chico los borra.
 
 comic1.addIllustrator('J.H');
 console.log(comic1.illustrators);
